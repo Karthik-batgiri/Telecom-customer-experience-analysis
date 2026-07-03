@@ -86,9 +86,8 @@ The Power BI dashboard includes:
 
 ### Dashboard Preview
 
-```markdown
+markdown
 ![Dashboard](images/dashboard.png)
-```
 
 ---
 
